@@ -135,7 +135,6 @@ relativeHumidity.place(x=800, y=510) #coordinates of the textbox
 print(entry1)
 print(e)
 
-
 w.pack()
 e.pack()
 
