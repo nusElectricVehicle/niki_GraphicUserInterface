@@ -5,7 +5,6 @@ https://docs.google.com/spreadsheets/d/12OdxolUzGm2LjfO5vwwMhhdhNAUsxQ7rdyF8dbFm
 Created on: 16 October 2020
 Created by: Willoughby Niki (lynxDigital)
 Last edited: 02 November 2020
-
 '''
 
 from tkinter import *
