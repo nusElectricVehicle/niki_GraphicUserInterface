@@ -27,7 +27,6 @@ root.geometry("985x550") #the size of the window (in pixels) rmbr its a string
 
 #image2 =Image.open('C:\\Users\\adminp\\Desktop\\titlepage\\front.gif')
 
-
 canvas = tk.Canvas(root, width=20, height=20)
 canvas.pack()
 
