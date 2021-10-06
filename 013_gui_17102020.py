@@ -6,7 +6,6 @@ Created by: Willoughby Niki (lynxDigital)
 Last edited: 02 November 2020
 '''
 
-
 from tkinter import *
 import tkinter as tk
 
