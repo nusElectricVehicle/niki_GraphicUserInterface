@@ -8,7 +8,6 @@ Last edited: 02 November 2020
 
 from tkinter import *
 import tkinter as tk
-
 import random
 import tkinter.messagebox
 import tkinter.font as font
