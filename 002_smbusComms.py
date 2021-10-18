@@ -1,7 +1,6 @@
 #https://www.youtube.com/watch?v=me7mhrRbspk
 
 from smbus import SMBus
-
 addr = 0x8 #bus address
 bus = SMBus(1) #indicuares /dev/i2c-1
 
